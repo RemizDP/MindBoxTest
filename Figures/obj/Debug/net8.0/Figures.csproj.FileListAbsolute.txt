@@ -1,0 +1,14 @@
+D:\Проекты для тренировки\Задачи с собеседований\Figures\Figures\obj\Debug\net8.0\Figures.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты для тренировки\Задачи с собеседований\Figures\Figures\obj\Debug\net8.0\Figures.AssemblyInfoInputs.cache
+D:\Проекты для тренировки\Задачи с собеседований\Figures\Figures\obj\Debug\net8.0\Figures.AssemblyInfo.cs
+D:\Проекты для тренировки\Задачи с собеседований\Figures\Figures\obj\Debug\net8.0\Figures.csproj.CoreCompileInputs.cache
+D:\Проекты для тренировки\Задачи с собеседований\Figures\Figures\bin\Debug\net8.0\Figures.exe
+D:\Проекты для тренировки\Задачи с собеседований\Figures\Figures\bin\Debug\net8.0\Figures.deps.json
+D:\Проекты для тренировки\Задачи с собеседований\Figures\Figures\bin\Debug\net8.0\Figures.runtimeconfig.json
+D:\Проекты для тренировки\Задачи с собеседований\Figures\Figures\bin\Debug\net8.0\Figures.dll
+D:\Проекты для тренировки\Задачи с собеседований\Figures\Figures\bin\Debug\net8.0\Figures.pdb
+D:\Проекты для тренировки\Задачи с собеседований\Figures\Figures\obj\Debug\net8.0\Figures.dll
+D:\Проекты для тренировки\Задачи с собеседований\Figures\Figures\obj\Debug\net8.0\refint\Figures.dll
+D:\Проекты для тренировки\Задачи с собеседований\Figures\Figures\obj\Debug\net8.0\Figures.pdb
+D:\Проекты для тренировки\Задачи с собеседований\Figures\Figures\obj\Debug\net8.0\Figures.genruntimeconfig.cache
+D:\Проекты для тренировки\Задачи с собеседований\Figures\Figures\obj\Debug\net8.0\ref\Figures.dll
